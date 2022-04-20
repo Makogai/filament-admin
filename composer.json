@@ -1,8 +1,8 @@
 {
-    "name": "filament/filament",
+    "name": "makogai/filament-admin",
     "description": "Effortlessly build TALL-powered admin panels.",
     "license": "MIT",
-    "homepage": "https://github.com/laravel-filament/filament",
+    "homepage": "https://github.com/makogai/filament-admin",
     "support": {
         "issues": "https://github.com/laravel-filament/filament/issues",
         "source": "https://github.com/laravel-filament/filament"
